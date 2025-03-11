@@ -164,11 +164,11 @@ classDiagram
     }
 ```
 
-Esta es una formula en línea: $ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $
+Esta es una formula en línea: $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$
 
 Esto es una fórmula en bloque:
 
-$$ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
+$$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
 ## Esto es una prueba
 
